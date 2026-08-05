@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
-<!--
-**Calatrux/Calatrux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS + Applied Math @ Georgia Tech
 
-Here are some ideas to get you started:
+Passionate about full-stack software engineering, applied artificial intelligence, and hands-on robotics. Always looking to connect and collaborate on projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Experience
+
+- **Full-stack development** in Python and JavaScript/Typescript
+- **Machine learning** with Python, Jupyter, and TensorFlow, including CNNs, image classification, and sentiment analysis
+- **Agentic AI systems** using LangGraph, RAG, and LLM optimization techniques
+
+## Projects
+
+**[Northstar](https://usenorthstar.onrender.com/)**: 
+A multi-agent orchestration pipeline that converts raw text into a detailed knowledge graph, supercharged by a RAG system. It acts as an intelligent memory layer for both agentic AI systems and human users to make more informed decisions.
+
+**[Willow](https://trywillow.onrender.com/)**: 
+A conversational AI therapist that combines real-time facial emotion detection and sentiment analysis on speech to drive contextual, relevant LLM responses. Clustering models power a recommendation engine that suggests personalized coping exercises to support users' emotional wellbeing.
+
+##
+
+Reach me at sprasad99@gatech.edu
