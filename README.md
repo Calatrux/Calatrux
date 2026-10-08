@@ -20,4 +20,4 @@ A conversational AI therapist that combines real-time facial emotion detection a
 
 ##
 
-Reach me at sprasad99@gatech.edu
+Reach me at shubham.prasad@gatech.edu
